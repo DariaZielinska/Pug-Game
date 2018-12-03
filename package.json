@@ -1,0 +1,23 @@
+{
+  "name": "puggame",
+  "version": "1.0.0",
+  "description": "its all about pug life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaZielinska/WRO_FER_S_16_REACT_Furry_Game.git"
+  },
+  "keywords": [
+    "pug",
+    "life"
+  ],
+  "author": "Daria Zielinska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaZielinska/WRO_FER_S_16_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/DariaZielinska/WRO_FER_S_16_REACT_Furry_Game#readme"
+}
