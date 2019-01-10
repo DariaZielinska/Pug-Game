@@ -2,7 +2,7 @@
 
 First  simple game project. 
 
-# Avaible on:
+# Available on:
 https://dariazielinska.github.io/Pug_Game/
 
 # Description:
