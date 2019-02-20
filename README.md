@@ -1,9 +1,9 @@
-# Pug_Game
+# Pug Game
 
 First  simple game project. 
 
 # Available on:
-https://dariazielinska.github.io/Pug_Game/
+https://dariazielinska.github.io/Pug-Game/
 
 # Description:
 
